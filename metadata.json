@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio & Resume",
+  "description": "A clean, modern, and minimalist personal portfolio and resume website for Geraldy Yobel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
